@@ -1,0 +1,12 @@
+setup.py
+vredict/__init__.py
+vredict/base.py
+vredict/linear_regression.py
+vredict/metrics.py
+vredict/perceptron.py
+vredict/utils.py
+vredict.egg-info/PKG-INFO
+vredict.egg-info/SOURCES.txt
+vredict.egg-info/dependency_links.txt
+vredict.egg-info/requires.txt
+vredict.egg-info/top_level.txt
